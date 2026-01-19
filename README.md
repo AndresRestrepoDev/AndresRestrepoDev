@@ -58,8 +58,6 @@ Hobbies: [Programación, Tecnología, Aprendizaje Continuo]
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -83,13 +81,11 @@ Hobbies: [Programación, Tecnología, Aprendizaje Continuo]
 
 </div>
 
----
-
 <div align="center">
 
-### 💭 _"Código limpio, arquitectura sólida, soluciones escalables"_
+### 💭 _"Construyendo software con propósito: eficiencia, calidad y mejora continua."_
 
-⭐ Si te gusta mi trabajo, no dudes en dejar una estrella en mis repositorios ⭐
+⭐ Si encuentras valor en mis proyectos, una estrella sería el mejor combustible para seguir creando ⭐
 
 </div>
 
